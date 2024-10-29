@@ -1,0 +1,93 @@
+remote: true
+
+experienceLevel:
+  internship: true
+  entry: true
+  associate: false
+  mid-senior level: false
+  director: false
+  executive: false
+
+experience_level:
+  internship: true
+  entry: true
+  associate: false
+  mid-senior level: false
+  director: false
+  executive: false
+
+jobTypes:
+  full-time: false
+  contract: false
+  part-time: false
+  temporary: false
+  internship: true
+  other: false
+  volunteer: false
+
+job_types:
+  full-time: false
+  contract: false
+  part-time: false
+  temporary: false
+  internship: true
+  other: false
+  volunteer: false
+
+date:
+  all time: false
+  month: false
+  week: true
+  24 hours: true
+
+positions:
+  - Software engineer intern
+  - Machine learning intern
+  - Cybersecurity intern
+  - Software developer intern
+  - Software developer insternship
+  - Software engineer internship
+  - Machine learning internship
+  - Cybersecurity internship
+  - ML/AI internship
+  - ML/AI intern
+  - Data Scientist Intern
+  - Data Science Intern
+  - Python developer intern
+
+locations:
+  - Germany
+  - England
+  - London
+  - Switzerland
+  - The Netherlands
+  - Spain
+
+apply_once_at_company: true
+
+distance: 100
+
+company_blacklist:
+
+title_blacklist:
+  - Sales
+  - Marketing
+  - HR
+  - Senior
+  - Associate
+  - Director
+  - Executive
+  - Mid-senior
+
+location_blacklist:
+  - India
+  - Israel
+  - Italy
+
+job_applicants_threshold:
+  min_applicants: 0
+  max_applicants: 1000
+
+llm_model_type: openai
+llm_model: 'gpt-4o-mini'
+  #llm_api_url: 'https://api.pawan.krd/cosmosrp/v1'

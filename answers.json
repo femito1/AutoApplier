@@ -1,0 +1,207 @@
+[
+    {
+        "type": "dropdown",
+        "question": "emailemail",
+        "answer": "fernandorimoli1001@gmail.com"
+    },
+    {
+        "type": "dropdown",
+        "question": "phone country codephone country code",
+        "answer": "Italy (+39)"
+    },
+    {
+        "type": "textbox",
+        "question": "phone",
+        "answer": "+39 3450239451"
+    },
+    {
+        "type": "dropdown",
+        "question": "indirizzo emailindirizzo email",
+        "answer": "fernandorimoli1001@gmail.com"
+    },
+    {
+        "type": "dropdown",
+        "question": "prefisso telefonico paeseprefisso telefonico paese",
+        "answer": "Italia (+39)"
+    },
+    {
+        "type": "textbox",
+        "question": "numero di telefono cellulare",
+        "answer": "3450239451"
+    },
+    {
+        "type": "numeric",
+        "question": "quanti anni di esperienza hai attualmente in qualit\u00e0 di consulenza?",
+        "answer": "2"
+    },
+    {
+        "type": "textbox",
+        "question": "phone",
+        "answer": "+39 3450239451"
+    },
+    {
+        "type": "dropdown",
+        "question": "email addressemail address",
+        "answer": "fernandorimoli1001@gmail.com"
+    },
+    {
+        "type": "textbox",
+        "question": "mobile phone number",
+        "answer": "3450239451"
+    },
+    {
+        "type": "numeric",
+        "question": "kindly write your yearly salary expectations in euros (gross amount)",
+        "answer": "35"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years have you worked in the online gambling industry?",
+        "answer": "2"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with python (programming language)?",
+        "answer": "4"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years have you worked as a software engineer?",
+        "answer": "4"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have utilising backend technologies?",
+        "answer": "4"
+    },
+    {
+        "type": "textbox",
+        "question": "first name",
+        "answer": "Fernando"
+    },
+    {
+        "type": "textbox",
+        "question": "last name",
+        "answer": "Rimoli"
+    },
+    {
+        "type": "textbox",
+        "question": "mobile phone number",
+        "answer": "3450239451"
+    },
+    {
+        "type": "textbox",
+        "question": "first name",
+        "answer": "Fernando"
+    },
+    {
+        "type": "textbox",
+        "question": "last name",
+        "answer": "Rimoli"
+    },
+    {
+        "type": "textbox",
+        "question": "mobile phone number",
+        "answer": "3450239451"
+    },
+    {
+        "type": "textbox",
+        "question": "what is your expected salary range for this position?",
+        "answer": "0 - 100000."
+    },
+    {
+        "type": "textbox",
+        "question": "which type of work arrangement do you prefer: full-time on-site, remote, or hybrid? are you open to all options?",
+        "answer": "I am open to all options."
+    },
+    {
+        "type": "textbox",
+        "question": "are you open to contract-based roles, or do you prefer a full-time, permanent position?",
+        "answer": "I prefer a full-time, permanent position."
+    },
+    {
+        "type": "textbox",
+        "question": "if you're open to contract work, please share your expected hourly rate.",
+        "answer": "100."
+    },
+    {
+        "type": "radio",
+        "question": "are you authorized to work in united kingdom without sponsorship?are you authorized to work in united kingdom without sponsorship?requiredyesno",
+        "answer": "no"
+    },
+    {
+        "type": "textbox",
+        "question": "mobile phone number",
+        "answer": "3450239451"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with python (programming language)?",
+        "answer": "4"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with fastapi?",
+        "answer": "2"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with amazon web services (aws)?",
+        "answer": "2"
+    },
+    {
+        "type": "textbox",
+        "question": "mobile phone number",
+        "answer": "3450239451"
+    },
+    {
+        "type": "textbox",
+        "question": "numero di telefono cellulare",
+        "answer": "3450239451"
+    },
+    {
+        "type": "textbox",
+        "question": "phone",
+        "answer": "+39 3450239451"
+    },
+    {
+        "type": "textbox",
+        "question": "numero di telefono cellulare",
+        "answer": "3450239451"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with java?",
+        "answer": "4"
+    },
+    {
+        "type": "numeric",
+        "question": "how many years of work experience do you have with spring boot?",
+        "answer": "2"
+    },
+    {
+        "type": "radio",
+        "question": "are you comfortable working in a hybrid setting?are you comfortable working in a hybrid setting?requiredyesno",
+        "answer": "yes"
+    },
+    {
+        "type": "textbox",
+        "question": "numero di telefono cellulare",
+        "answer": "3450239451"
+    },
+    {
+        "type": "textbox",
+        "question": "mobile phone number",
+        "answer": "3450239451"
+    },
+    {
+        "type": "dropdown",
+        "question": "qual \u00e8 il tuo grado di conoscenza della lingua italiano?qual \u00e8 il tuo grado di conoscenza della lingua italiano?",
+        "answer": "Professionale"
+    },
+    {
+        "type": "numeric",
+        "question": "quanti anni di esperienza di lavoro hai con java?",
+        "answer": "4"
+    }
+]

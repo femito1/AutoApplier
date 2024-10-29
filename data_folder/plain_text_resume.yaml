@@ -1,0 +1,146 @@
+personal_information:
+  name: "Fernando"
+  surname: "Rimoli"
+  date_of_birth: "11/11/2004"
+  country: "Italy"
+  city: "Rome"
+  address: "Via Tarquinio Prisco 28, Interno 7"
+  zip_code: "00181"
+  phone_prefix: "+39"
+  phone: "3450239451"
+  email: "fernandorimoli4@gmail.com"
+  github: "https://github.com/femito1"
+  linkedin: "https://www.linkedin.com/in/fernando-rimoli-697a5b248/"
+
+education_details:
+  - education_level: "Bachelor's Degree"
+    institution: "Sapienza University of Rome"
+    field_of_study: "Applied Computer Science and AI"
+    final_evaluation_grade: "110L/100"
+    start_date: "2022"
+    year_of_completion: "2025"
+    exam:
+      ML/AI: "30/30"
+      Data_Management_and_Analysis: "30/30"
+      Operating_Systems: "30L/30"
+      Networking: "30/30"
+      NLP_and_ComputerVision: "30L/30"
+      Statistics: "29/30"
+
+experience_details:
+  - position: "Teaching Assistant"
+    company: "Sapienza University"
+    employment_period: "Mar 2024 - Present"
+    location: "Rome, Italy"
+    industry: "Education"
+    key_responsibilities:
+      - responsibility_1: "Designed and graded Java-based homework assignments"
+      - responsibility_2: "Conducted weekly tutoring sessions and office hours (4 hours/week)"
+      - responsibility_3: "Mentored over 100 students in Object-Oriented Programming"
+    skills_acquired:
+      - "Java"
+      - "Teaching"
+      - "Mentorship"
+
+  - position: "Software Engineer Intern"
+    company: "Sapienza Flight Team"
+    employment_period: "May 2023 - Present"
+    location: "Rome, Italy"
+    industry: "Aerospace Engineering"
+    key_responsibilities:
+      - responsibility_1: "Developed real-time image processing software in Python for UAV responses"
+      - responsibility_2: "Collaborated with a team to apply ML algorithms for UAV image recognition"
+      - responsibility_3: "Enhanced UAV response accuracy through image recognition improvements"
+    skills_acquired:
+      - "Python"
+      - "Machine Learning"
+      - "Image Processing"
+
+  - position: "University Research Assistant"
+    company: "Claremont Graduate University"
+    employment_period: "Apr 2020 - Feb 2021"
+    location: "Claremont, CA, USA"
+    industry: "Research"
+    key_responsibilities:
+      - responsibility_1: "Organized and cleaned survey datasets for data quality"
+      - responsibility_2: "Analyzed qualitative and quantitative data using Python/R"
+      - responsibility_3: "Contributed insights to research through data analysis"
+    skills_acquired:
+      - "Data Analysis"
+      - "Python"
+      - "R"
+
+projects:
+  - name: "glorIA | Pokemon Showdown AI"
+    description: "Developed a Reinforcement Learning agent using Proximal Policy Optimization with a 95% win rate against Random Agent, ranking in the Top 1000 on the Italian Pokémon Showdown leaderboard."
+    link: "https://github.com/yGifoom/glorIA"
+  - name: "ThreadCoin | Personal Project"
+    description: "Built a Bitcoin mining simulator implementing decentralized blockchain logic with AES and RSA encryption, using Java for secure mining protocols."
+    link: "https://github.com/femito1/threadCoin"
+
+
+achievements:
+  - name: "Tryhackme Leaderboard"
+    description: "Reached top 20% in the leaderboard of internationally recognized website tryhackme.com"
+  - name: "IBM Hackathon"
+    description: "Achieved 5th place in IBM's watsonx hackathon"
+
+certifications:
+
+languages:
+  - language: "English"
+    proficiency: "Fluent"
+  - language: "Portuguese"
+    proficiency: "Fluent"
+  - language: "Italian"
+    proficiency: "Intermediate"
+  - language: "Spanish"
+    proficiency: "Intermediate"
+
+interests:
+  - "Machine Learning"
+  - "Cybersecurity"
+  - "Blockchain"
+  - "Artificial Intelligence"
+  - "Physics"
+
+availability:
+  notice_period: "3 months"
+
+salary_expectations:
+  salary_range_usd: "0 - 100000"
+
+self_identification:
+  gender: "Male"
+  pronouns: "He/Him"
+  veteran: "No"
+  disability: "No"
+  ethnicity: "Brazilian/Italian"
+
+
+legal_authorization:
+  eu_work_authorization: "Yes"
+  us_work_authorization: "No"
+  requires_us_visa: "No"
+  requires_us_sponsorship: "Yes"
+  requires_eu_visa: "No"
+  legally_allowed_to_work_in_eu: "Yes"
+  legally_allowed_to_work_in_us: "No"
+  requires_eu_sponsorship: "No"
+  canada_work_authorization: "No"
+  requires_canada_visa: "Yes"
+  legally_allowed_to_work_in_canada: "No"
+  requires_canada_sponsorship: "Yes"
+  uk_work_authorization: "Yes"
+  requires_uk_visa: "Yes"
+  legally_allowed_to_work_in_uk: "Yes"
+  requires_uk_sponsorship: "Yes"
+
+
+work_preferences:
+  remote_work: "Yes"
+  in_person_work: "Yes"
+  open_to_relocation: "Yes"
+  willing_to_complete_assessments: "Yes"
+  willing_to_undergo_drug_tests: "Yes"
+  willing_to_undergo_background_checks: "Yes"
